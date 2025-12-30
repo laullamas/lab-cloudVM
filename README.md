@@ -3,7 +3,6 @@ Este repositorio contiene los materiales del Laboratorio 8 sobre máquinas virtu
 
 ## Contenido
 
-- Creación y manejo de VMs en GCP Compute Engine
+- Creación y manejo de VMs en GCP
 - Configuración de reglas de firewall
 - Servidor web con Python y FastAPI
-- Scripts de instalación y configuración
